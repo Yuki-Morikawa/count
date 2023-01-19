@@ -10,7 +10,7 @@ gem 'fastri'
 gem 'rake'
 gem 'sinatra'
 gem 'sinatra-contrib'
-gem 'activerecord', '< 5.0.0'
+gem 'activerecord', '< 7.0.0'
 gem 'sinatra-activerecord'
 group :development do
   gem 'sqlite3'
